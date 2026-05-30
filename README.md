@@ -7,6 +7,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
 
+**[▶ Live site](https://snuvc-venture-consulting.vercel.app)**
+
 ## Overview
 
 SNUVC is the marketing and landing site for **Seoul National University Venture Consulting**, an undergraduate club that meets top-tier venture capitalists in Korea and Silicon Valley and channels those insights into hands-on consulting and acceleration for student and early-stage founders. The site is a single, self-contained `index.html` page — no build step, no runtime dependencies — that presents the club's value proposition, its investor and professor network, the team, and a working contact form. Lead submissions are captured serverlessly through a Google Apps Script Web App that writes into a Google Sheets backend.
